@@ -7,11 +7,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6;
     background-color: #f0fdf4;
-    color:#333;
+    color:#333;/* color de letra */
     padding: 20px;
 }
 header{
-    background-color: #4caf50;
+    background-color: #4caf50; /* color del encabezado  barra de navegacion*/
     color: white;
     padding: 20px;
     text-align: center;
